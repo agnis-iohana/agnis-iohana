@@ -1,4 +1,3 @@
-* I'm biologist and Master's Student at Universidade Federal do Rio Grande do Sul. http://www.ufrgs.br/ppgbm/ensino-e-pesquisa/corpo-discente/
+* I'm biologist and Msc (Genetics and Molecular Biology) and currently working at Genera (DASA Group) a company that sells genetic tests Direct-To-Consumer.
 * Bioinformatics enthusiast. Currently learning Python, Shell Script, and R for genetics analysis. SQL for funny.
-* Bioinformatics Core member at Hospital de Clínicas de Porto Alegre.
-* Meme lover, Gamer on weekends.
+* Meme lover, Gamer on weekends, Ayla's Mother.
